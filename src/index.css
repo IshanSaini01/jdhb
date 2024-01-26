@@ -7,6 +7,10 @@
 .colo{
     color: cyan;
     background-color: black;
+    font-size: xx-large;
+    width: 300px;
+    margin: auto ;
+    margin-top: 50px ;
 }
 .text{
     text-decoration: none;
